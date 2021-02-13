@@ -21,8 +21,8 @@ date
 ### Rota Responsavel por listar todos registros
 
 #### Respostas
-#### OK! 200
 #### Erro interno! 500
+#### OK! 200
 
 ```
 {
@@ -40,13 +40,14 @@ date
     "date": "2018-01-21"
   }
   ```
+  
  
 ## GET /api/car/:id
 ### Rota responsavel por buscar um registro em especifico pelo id
 
 #### Respostas
-#### OK! 200
 #### Erro interno! 500
+#### OK! 200
 
 ```
 {
